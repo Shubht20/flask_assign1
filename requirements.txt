@@ -1,0 +1,7 @@
+flask
+flask_migrate
+flask_sqlalchemy
+mysqldb
+db
+jsonify
+request
